@@ -3,7 +3,7 @@ def hello():
 
 
 def bye():
-    print("bye Mridul Vasudeva")
+    print("bye Mridul Vasudeva!")
 
 
 print(hello())
